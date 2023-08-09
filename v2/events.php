@@ -83,9 +83,9 @@
                     <div class="col-12">
                         <h5 class="alt-font text-black font-weight-600 fonarto text-center">Masterclass</h5>
                         <!-- start filter navigation -->
-                        <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 portfolio-filter-tab-1 font-weight-600 alt-font text-uppercase text-center margin-80px-bottom text-small md-margin-40px-bottom sm-margin-20px-bottom">
+                        <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 portfolio-filter-tab-1 font-weight-600 alt-font text-uppercase text-center margin-0px-bottom text-small md-margin-40px-bottom sm-margin-20px-bottom">
                             <li class="nav active"><a href="javascript:void(0);" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="light-gray-text-link text-very-small">Current Events</a></li>
+                      <!--    <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="light-gray-text-link text-very-small">Current Events</a></li> -->
                             <li class="nav"><a href="javascript:void(0);" data-filter=".upcoming" class="light-gray-text-link text-very-small">Upcoming Events</a></li>
                             <li class="nav"><a href="javascript:void(0);" data-filter=".past" class="light-gray-text-link text-very-small">Past Events</a></li>
                         </ul>                                                                           
@@ -117,9 +117,9 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li>   
                                 <!-- end portfolio item -->
-                                <!-- start portfolio item -->
+                                <!-- start portfolio item 
                                 <li class="grid-item past past wow fadeInUp" data-wow-delay="0.2s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
@@ -136,10 +136,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li> -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
-                                <li class="grid-item current current past past wow fadeInUp" data-wow-delay="0.4s">
+                          <!--      <li class="grid-item current current past past wow fadeInUp" data-wow-delay="0.4s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/new-course/clock-top-.jpg" alt=""/></div>
@@ -155,10 +155,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
-                                <!-- end portfolio item -->
+                                </li>  -->
+                                <!-- end portfolio item -->  
                                 <!-- start portfolio item -->
-                                <li class="grid-item upcoming current past past wow fadeInUp" data-wow-delay="0.6s">
+                <!--                <li class="grid-item upcoming current past past wow fadeInUp" data-wow-delay="0.6s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/new-course/clock-top-.jpg" alt=""/></div>
@@ -174,10 +174,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li>  -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio-item item -->
-                                <li class="grid-item current current past wow fadeInUp">
+                    <!--            <li class="grid-item current current past wow fadeInUp">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/new-course/clock-top-.jpg" alt=""/></div>
@@ -193,7 +193,7 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li>  -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
                                 <li class="grid-item current current past wow fadeInUp" data-wow-delay="0.2s">
@@ -344,9 +344,9 @@
                     <div class="col-12">
                         <h5 class="alt-font text-black font-weight-600 fonarto text-center">Workshop</h5>
                         <!-- start filter navigation -->
-                        <ul class="portfolio-filter nav nav-tabs justify-content-center border-none portfolio-filter-tab-1 font-weight-500 alt-font text-uppercase text-center text-small margin-80px-bottom md-margin-40px-bottom sm-margin-20px-bottom">
+                        <ul class="portfolio-filter nav nav-tabs justify-content-center border-none portfolio-filter-tab-1 font-weight-500 alt-font text-uppercase text-center text-small margin-80px-bottom md-margin-0px-bottom sm-margin-20px-bottom">
                             <li class="nav active"><a href="javascript:void(0);" data-filter="*" class="sm-display-inline light-gray-text-link text-very-small">All</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="sm-display-inline light-gray-text-link text-very-small">Current Events</a></li>
+                           <!-- <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="sm-display-inline light-gray-text-link text-very-small">Current Events</a></li> -->
                             <li class="nav"><a href="javascript:void(0);" data-filter=".upcoming" class="sm-display-inline light-gray-text-link text-very-small">Upcoming Events</a></li>
                             <li class="nav"><a href="javascript:void(0);" data-filter=".past" class="sm-display-inline light-gray-text-link text-very-small">Past Events</a></li>
                         </ul>
@@ -354,7 +354,7 @@
                     </div>
                 </div>
             </div>
-            <div class="container-fluid p-0">
+            <div class="container-fluid">
                 <div class="row m-0">
                     <div class="filter-content overflow-hidden w-100">
                         <ul class="portfolio-grid work-4col hover-option4 gutter-small">
@@ -551,7 +551,7 @@
                         <!-- start filter navigation -->
                         <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 portfolio-filter-tab-1 font-weight-600 alt-font text-uppercase text-center margin-80px-bottom text-small md-margin-40px-bottom sm-margin-20px-bottom">
                             <li class="nav active"><a href="javascript:void(0);" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
-                            <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="light-gray-text-link text-very-small">Current Hackathon</a></li>
+                          <!--  <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="light-gray-text-link text-very-small">Current Hackathon</a></li> !-->
                             <li class="nav"><a href="javascript:void(0);" data-filter=".upcoming" class="light-gray-text-link text-very-small">Upcoming Hackathon</a></li>
                             <li class="nav"><a href="javascript:void(0);" data-filter=".past" class="light-gray-text-link text-very-small">Past Hackathon</a></li>
                         </ul>                                                                           
@@ -667,7 +667,7 @@
                                 </li>
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
-                                <li class="grid-item current upcoming past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">
+                            <!--    <li class="grid-item current upcoming past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/page-banners/course-bg.jpg" alt=""/></div>
@@ -684,10 +684,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li> -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
-                                <li class="grid-item current upcoming past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
+                              <!--  <li class="grid-item current upcoming past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.4s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/page-banners/course-bg.jpg" alt=""/></div>
@@ -704,10 +704,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li> -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
-                                <li class="grid-item current past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.6s">
+                               <!-- <li class="grid-item current past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.6s">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/page-banners/course-bg.jpg" alt=""/></div>
@@ -724,10 +724,10 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li> -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
-                                <li class="grid-item current upcoming past wow fadeInUp last-paragraph-no-margin">
+                                <!--<li class="grid-item current upcoming past wow fadeInUp last-paragraph-no-margin">
                                     <a href="cap-theorem-explained-in-12-minutes.php">
                                         <figure>
                                             <div class="portfolio-img"><img src="images/page-banners/course-bg.jpg" alt=""/></div>
@@ -744,7 +744,7 @@
                                             </figcaption>
                                         </figure>
                                     </a>
-                                </li>
+                                </li> -->
                                 <!-- end portfolio item -->
                                 <!-- start portfolio item -->
                                 <li class="grid-item past upcoming past wow fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">

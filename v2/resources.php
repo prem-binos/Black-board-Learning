@@ -177,7 +177,7 @@
                                 <li style="color:#fff">1:1 Mentorship with Guided Projects.</li>
                                 <li style="color:#fff">Easy EMI Options </li>
                             </p>
-                            <a href="unleash-data-analysis.php" class="btn btn-transparent-white btn-small border-radius-4">Learn More</a>
+                            <a href="aspire-data-analysis.php" class="btn btn-transparent-white btn-small border-radius-4">Learn More</a>
                         </div>
                     </div>
                     <!-- end features item -->

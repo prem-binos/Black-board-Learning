@@ -32,7 +32,7 @@
 
               ">
         <!-- favicon -->
-        <link rel="shortcut icon" href="favicon.png">
+        <link rel="shortcut icon" href="images/favicon.png">
         <link rel="stylesheet" href="css/animate.css" />
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -53,13 +53,12 @@
                 border-color: #ffd658;
                 color: #ffffff;
             }
-
-        </style> 
+        </style>
     </head>
 
     <body>
 
-        <! <?php include("header - Copy.php"); ?>
+        <?php include("header - Copy.php"); ?>
         <?php include("banner.php"); ?>
 
         <section class="bg-extra-light-gray">
@@ -69,15 +68,15 @@
                     
                     <div class="col-sm-6">
                         <div class="img-overlay ">
-                            <a href="unleash.php"> <img src="images/unleash/unleash-by-black-board-learning.jpg" class="img-responsive"></a>
+                            <a href="unleash.php"> <img src="images/unleash/unleash_data_science_course.jpg" class="img-responsive"></a>
                             <div class="overlay">
                                 <!--<div class="text">Hello World</div>-->
                                 <figcaption class="text-center align-middle">
-                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">UNLEASH </span>
+                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">UNLEASH DATA SCIENCE</span>
                                     <div class="bg-black mx-auto  margin-25px-bottom"></div>
                                     <p class="text-black text-capitalize text-medium mb-0 ">A Job Assured Data Science Program </br>Online & Classroom </p>
                                     <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">160 Hours of Classes | Weekdays or Weekends</h5>
+                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">120 Hours of Classes | Weekdays or Weekends</h5>
                                     <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="unleashcourse.php">Know More</a>
                                 </figcaption>
                             </div>
@@ -86,119 +85,55 @@
 
                  <div class="col-sm-6">
                         <div class="img-overlay ">
-                            <a href="datasciencebootcamp.php"> <img src="images/course/big-data-course.jpg" class="img-responsive"></a>
+                            <a href="unleash-data-analysis.php"> <img src="images/aspire/aspire_data_analytics_course.jpg" class="img-responsive"></a>
                             <div class="overlay">
                                 <!--<div class="text">Hello World</div>-->
                                 <figcaption class="text-center">
-                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">DATA SCIENCE BOOTCAMP</span>
+                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">ASPIRE DATA ANALYTICS</span>
                                     <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <p class="text-black text-sentence text-medium mb-0 ">Become An Industry – Ready Data Scientist With </br>Our Flagship Analytics Program. </p>
+                                    <p class="text-black text-sentence text-medium mb-0 ">A Job Assured Data Analysis Program</br>Online & Classroom</p>
                                     <div class="bg-black mx-auto separator-horrizontal-medium-light3 margin-25px-bottom"></div>
-                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">16 Weeks | R, Tableau, Python, Excel </h5>
-                                    <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="datasciencebootcamp.php">Know More</a>
-                                </figcaption>
-                            </div>
-                        </div>
-                    </div>
-
-                
-                <!-- <center><a class="btn btn-large btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="allcourses.php">View all courses</a></center> -->
-            </div>
-        </section>
-
-        <section class="bg-white">
-            <div class="container">
-                <h5 class="alt-font text-black font-weight-600 fonarto text-center">Other Upcoming Courses</h5>
-                <div class="row">
-                    
-
-                 
-
-                    <div class="col-sm-6">
-                        <div class="img-overlay ">
-                            <a href="machinelearningbootcamp.php"> <img src="images/course/machinelearning.jpg" class="img-responsive"></a>
-                            <div class="overlay">
-                                <!--<div class="text">Hello World</div>-->
-                                <figcaption class="text-center">
-                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">MACHINE LEARNING BOOTCAMP</span>
-                                    <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <p class="text-black text-sentence text-medium mb-0 ">Become a Data Analyst by mastering Machine Learning</br> in R & Python.. </p>
-                                    <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">8 Weeks | R, Python</h5>
-                                    <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="machinelearningbootcamp.php">Know More</a>
-                                </figcaption>
-                            </div>
-                        </div>
-                    </div>
-
-                
-
-                    <div class="col-sm-6">
-                        <div class="img-overlay ">
-                            <a href="digitalmarketingbootcamp.php"> <img src="images/course/data-science-online-course.jpg" class="img-responsive"></a>
-                            <div class="overlay">
-                                <!--<div class="text">Hello World</div>-->
-                                <figcaption class="text-center">
-                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">DIGITAL MARKETING BOOTCAMP</span>
-                                    <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <p class="text-black text-capitalize text-medium mb-0 ">Master Digital Marketing with real live campaigns</br> for our clients. </p>
-                                    <div class="bg-black mx-auto separator-horrizontal-medium-light3 margin-25px-bottom"></div>
-                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">16 Weeks </h5>
-                                    <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="digitalmarketingbootcamp.php">Know More</a>
+                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">60 Hours of Classes | Weekdays or Weekends</h5>
+                                    <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="aspire-data-analysis.php">Know More</a>
                                 </figcaption>
                             </div>
                         </div>
                     </div>
                 </div>
+            </section>
 
-              <!--  <center><a class="btn btn-large btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="allcourses.php">View all courses</a></center>
-            </div>-->
-        </section>
+    <section class="parallax wow fadeIn" data-stellar-background-ratio="0.3" style="background-image: url(&quot;images/best-data-analytics-courses.jpg&quot;); visibility: visible; animation-name: fadeIn;">
+        <div class="opacity-extra-medium"></div>
+        <div class="container-fluid p-0">
+            <div class="row">
+                <div class="col-12 col-lg-12 padding-six-half-lr lg-padding-eight-lr md-padding-30px-lr  md-padding-nine-half-tb sm-padding-15px-lr sm-padding-50px-tb wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                    <h5 class="alt-font black-color margin-seven-half-bottom lg-margin-ten-half-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center text-lg-left md-width-70 mx-auto mx-lg-0 sm-width-100 text-uppercase font-weight-700" style="text-align: center !important;font-family:  'Karla', sans-serif;">Why Learn With Us</h5>
+                    <div class="row text-center text-md-left">
+                        <!-- start feature box item-->
+                        <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
+                            <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px;font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>1.SIMPLIFIED LEARNING</b></div>
+                            <p class="black-color width-90 sm-width-100 ">Do you think Data Analytics is hard to learn? Come fall in love with our simplified ways of teaching and learning.</p>
+                        </div>
 
-       <!-- <section class="parallax wow fadeIn" data-stellar-background-ratio="0.3" style="background-image: url(&quot;images/parallax-bg6.jpg&quot;); background-position: 0px 16.4906px; visibility: visible; animation-name: fadeIn;">
-            <div class="opacity-extra-medium bg-black"></div>
-            <div class="container position-relative">
-                <div class="row justify-content-center">
-                    <div class="col-12 col-xl-6 col-md-8 text-center last-paragraph-no-margin">
-                        <a href="https://www.youtube.com/watch?v=nrJtHemSPW4" class="popup-youtube"><img src="images/icon-play.png" class="width-130px" alt="" data-no-retina=""></a>
-                        <h3 class="alt-font text-white-2 font-weight-600"></h3>
-                        <p class="text-small text-uppercase letter-spacing-2 alt-font text-light-gray d-inline-block"></p>
-                    </div>
-                </div> 
-            </div>
-        </section>-->
-        <section class="parallax wow fadeIn" data-stellar-background-ratio="0.3" style="background-image: url(&quot;images/best-data-analytics-courses.jpg&quot;); visibility: visible; animation-name: fadeIn;">
-            <div class="opacity-extra-medium"></div>
-            <div class="container-fluid p-0">
-                <div class="row">
-                    <div class="col-12 col-lg-12 padding-six-half-lr lg-padding-eight-lr md-padding-30px-lr  md-padding-nine-half-tb sm-padding-15px-lr sm-padding-50px-tb wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-                        <h5 class="alt-font black-color margin-seven-half-bottom lg-margin-ten-half-bottom md-margin-40px-bottom sm-margin-30px-bottom text-center text-lg-left md-width-70 mx-auto mx-lg-0 sm-width-100 text-uppercase font-weight-700" style="text-align: center !important;font-family:  'Karla', sans-serif;">Why Learn With Us</h5>
-                        <div class="row text-center text-md-left">
-                            <!-- start feature box item-->
-                            <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
-                                <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px;font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>01. SIMPLIFIED LEARNING</b></div>
-                                <p class="black-color width-90 sm-width-100 ">Do you think Data Analytics is hard to learn?? Come fall in love with our simplified ways of teaching and learning.</p>
-                            </div>
+                        <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
+                            <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px;font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>2.HANDS ON SESSIONS</b></div>
+                            <p class="black-color  width-90 sm-width-100">Bored of PPT lectures in classroom??Yeah.. We too. That’s why all our courses are a complete hands on session with real time datasets.</p>
+                        </div>
 
-                            <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
-                                <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px;font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span> <b>02. HANDS ON SESSIONS</b></div>
-                                <p class="black-color  width-90 sm-width-100">Bored of PPT lectures in classroom??Yeah.. We too. That’s why all our courses are a complete hands on session with real time datasets.</p>
-                            </div>
+                        <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
+                            <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px; font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>3.MENTORSHIP SUPPORT</b></div>
+                            <p class="black-color  width-90 sm-width-100">Coding, syntax errors, logical errors scares you?? Fear not. Utilise our free One on One mentorship support.</p>
+                        </div>
 
-                            <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
-                                <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px; font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>03. MENTORSHIP SUPPORT</b></div>
-                                <p class="black-color  width-90 sm-width-100">Coding, syntax errors, logical errors scares you?? Fear not. Utilise our free One on One mentorship support.</p>
-                            </div>
-
-                            <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
-                                <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px; font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>04. INTERNSHIP ASSISTANCE</b></div>
-                                <p class="black-color  width-90 sm-width-100 ">Tired of hearing the same phrase??  But this is for real. Leverage our strategic tie ups with 22 Data Analytics Companies.</p>
-                            </div>
+                        <div class="col-12 col-xl-6 col-lg-12 col-md-6 margin-six-bottom lg-no-padding-right lg-margin-30px-bottom sm-margin-30px-bottom sm-padding-15px-right last-paragraph-no-margin">
+                            <div class="black-color margin-10px-bottom alt-font" style="font-size: 22px; font-family: arca majora 3;"><span class="text-black margin-10px-right d-block d-md-inline-block sm-no-margin"></span><b>4.INTERNSHIP ASSISTANCE</b></div>
+                            <p class="black-color  width-90 sm-width-100 ">Tired of hearing the same phrase??  But this is for real. Leverage our strategic tie ups with 22 Data Analytics Companies.</p>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
     </section>
     <section class="wow fadeIn" style="background-color:#fff;">
@@ -206,7 +141,7 @@
         <div class="container text-center">
 
             <div class="col-12 col-lg-12 margin-eight-bottom text-center last-paragraph-no-margin">
-                <h5 class="alt-font text-extra-dark-gray font-weight-700 fonarto" style="color:#222;">SOME OF OUR CLIENTS</h5>
+                <h5 class="alt-font text-extra-dark-gray font-weight-700 fonarto" style="color:#222;">OUR STUDENTS WORKS AT</h5>
 
             </div>
 
@@ -214,50 +149,41 @@
                 <div class="swiper-slider-clients swiper-container black-move wow fadeIn " style="background-color:#fff;">
                     <div class="swiper-wrapper">
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/python-data-analytics.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/amazon-logo-2.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-and-machine-learning.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/kovia.co 3.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
 
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-course-fees.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/brillo logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-for-beginners.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/freshworks logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-analytics-certification.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/Ignitho_2_logo_200x200.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/best-data-science-courses.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/NTT_Data-Logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/learn-data-science.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/zoho logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-for-beginners.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/Elcot logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/business-analytics-online-course.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/salcomp_logo_2.png" alt="" style="width:100px"></a></div>
 
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-analytics-training.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/Hyundai LOGO.png" alt="" style="width:100px"></a></div>
 
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-certification-course.png" alt="" style="width:200px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/tech mahindra logo 2.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-in-tamil.png" alt="" style="width:200px"></a></div>
-                        <!-- end slide -->
-                        <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-analytics-in-tamil.png" alt="" style="width:200px"></a></div>
-                        <!-- end slide -->
-                        <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-prerequisite.png" alt="" style="width:200px"></a></div>
-                        <!-- end slide -->
-                        <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/data-science-course-near-me.png" alt="" style="width:200px"></a></div>
+                        
                         <!-- end slide -->
                     </div>
                 </div>
@@ -463,6 +389,7 @@
                                     </div>
                                 </figure>
                             </div>
+                            
                             <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
                                 <figure>
                                     <div class="team-image sm-width-100">
@@ -549,7 +476,7 @@
                 <div class="col-12 col-lg-6 padding-seven-tb padding-eight-lr md-padding-nine-tb md-padding-twelve-lr sm-padding-0px-tb sm-padding-0px-lr text-center text-md-left wow slideInRight last-paragraph-no-margin" data-wow-duration="900ms">
 
                     <i class="fas fa-quote-left text-medium-gray icon-large margin-15px-bottom"></i>
-                    <h6 class="text-black width-120 lg-width-120">Learn data analytics in a simplified way with highly interactive hands-on sessions. We promise not to bore you with power point classes and uninteresting theory sessions. Tired of online classes? Come! Experience the refreshing new way of learning..</h6>
+                    <h6 class="text-black width-120 lg-width-120">Learn data analytics in a simplified way with highly interactive hands-on sessions. We promise not to bore you with power point classes and uninteresting theory sessions. Tired of online classes? Come! Experience the refreshing new way of learning.</h6>
                     <h5 class="alt-font text-black">KARTHIK VEER <span class="text-medium"> B.Tech,MBA,PGPBA </span></h5>
                     <h6 class="alt-font text-black">Founder & Chief Learner</h6>
                 </div>
@@ -735,17 +662,17 @@
     <?php include("footer.php"); ?>
 
    
-    // <script type="text/javascript" src="js/jquery.js"></script>
-    // <script type="text/javascript" src="js/bootstrap.bundle.js"></script>
-    // <script type="text/javascript" src="js/bootsnav.js"></script>
-    // <script type="text/javascript" src="js/jquery.nav.js"></script>
-    // <script type="text/javascript" src="js/wow.min.js"></script>
-    // <script type="text/javascript" src="js/swiper.min.js"></script>
-    // <script type="text/javascript" src="js/classie.js"></script>
-    // <script type="text/javascript" src="js/hamburger-menu.js"></script>
-    // <script type="text/javascript" src="js/instafeed.min.js"></script>
-    // <script type="text/javascript" src="js/main.js"></script>
-    // <script type="text/javascript" src="js/jquery.stellar.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.js"></script>
+    <script type="text/javascript" src="js/bootsnav.js"></script>
+    <script type="text/javascript" src="js/jquery.nav.js"></script>
+    <script type="text/javascript" src="js/wow.min.js"></script>
+    <script type="text/javascript" src="js/swiper.min.js"></script>
+    <script type="text/javascript" src="js/classie.js"></script>
+    <script type="text/javascript" src="js/hamburger-menu.js"></script>
+    <script type="text/javascript" src="js/instafeed.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="js/jquery.stellar.js"></script>
     
   <script type="text/javascript" id="zsiqchat">
 

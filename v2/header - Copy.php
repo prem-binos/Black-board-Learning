@@ -74,19 +74,24 @@
                         <li class="dropdown simple-dropdown"><a class="fonarto" style="font-size: 18px;" href="#" title="Learn">Learn</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                             <!-- start sub menu -->
                             <ul class="dropdown-menu" role="menu" style="top: 58px !important">
-                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+
+                            <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="events.php">Events & More</a>
                                 </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
-                                </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
-                                </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
-                                </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="events.php">Events & More</a>
-                                </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="student-ambassador.php">Student Ambassador</a>
-                                </li>
+             
                             </ul>
+    
+                            <!--                     <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+                                </li>
+                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+                                </li>
+                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+                                </li>
+                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+                                </li>
+                                
+                                <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="student-ambassador.php">Student Ambassador</a>
+                                </li> -->
+                              
                             <!-- end sub menu -->
                         </li>
                         

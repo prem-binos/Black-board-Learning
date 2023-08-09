@@ -965,7 +965,7 @@
                                                     <a href="http://www.instagram.com" class="text-white-2 text-white-2-hover" target="_blank"><i class="fab fa-instagram"></i></a>
                                                 </div> -->
                                             </div>
-                                            <div class="team-overlay bg-deep-pink opacity8"></div>
+                                            <div class=" bg-deep-pink opacity8"></div>
                                         </div>
                                         <figcaption>
                                             <div class="team-member-position margin-20px-top text-center">
@@ -989,7 +989,7 @@
                                                     <a href="http://www.instagram.com" class="text-white-2 text-white-2-hover" target="_blank"><i class="fab fa-instagram"></i></a>
                                                 </div> -->
                                             </div>
-                                            <div class="team-overlay bg-deep-pink opacity8"></div>
+                                            <div class=" bg-deep-pink opacity8"></div>
                                         </div>
                                         <figcaption>
                                             <div class="team-member-position margin-20px-top text-center">
@@ -1014,7 +1014,7 @@ expert with over 9 years of experience in the field.</div>
                                                     <a href="http://www.instagram.com" class="text-white-2 text-white-2-hover" target="_blank"><i class="fab fa-instagram"></i></a>
                                                 </div> -->
                                             </div>
-                                            <div class="team-overlay bg-deep-pink opacity8"></div>
+                                            <div class=" bg-deep-pink opacity8"></div>
                                         </div>
                                         <figcaption>
                                             <div class="team-member-position margin-20px-top text-center">
@@ -1038,7 +1038,7 @@ expert with over 9 years of experience in the field.</div>
                                                     <a href="http://www.instagram.com" class="text-white-2 text-white-2-hover" target="_blank"><i class="fab fa-instagram"></i></a>
                                                 </div> -->
                                             </div>
-                                            <div class="team-overlay bg-deep-pink opacity8"></div>
+                                            <div class=" bg-deep-pink opacity8"></div>
                                         </div>
                                         <figcaption>
                                             <div class="team-member-position margin-20px-top text-center">
@@ -1125,68 +1125,10 @@ setting up my career in analytics with this best platform for learning</p>
                                 </div>
                             <!-- end testimonial item -->
                             <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-03.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">Before this class we don’t have knowledge on Data analytics and now we gained much knowledge. Apart from Data Analysis we have learnt many things from you through your technical news. Your way of teaching and interacting with students is very good.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">MPavithra. R</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">BIT, Sath</span>
-                                </div>
+                           
                             <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-01.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">Hi sir. The way of interacting with students and handling the subject is very nice. Giving the real-world examples and connecting it with the subject is very easy to understand and have a nice day & gain knowledge about the analytics using R.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Saranya. V</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">Loyola, Chennai</span>
-                                </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-02.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">Very informative sessions about Data analytics and R programming. Very interesting to hear practical applications of analytics in real world. Karthik sir you are friendly and approachable helped with any problems I faced during class.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Sharon. M</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">ST. JOSEPH, Trichy</span>
-                                </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-03.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">Your sessions were very useful & interesting. It was really interactive. More experimenting with data sets and analytics software made us to learn very easily and quickly.Thank you so much sir for being our teacher.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Savitha. K</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">XIME, Bangalore</span>
-                                </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-01.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">The workshop was interesting. Full day class for 5 days was not boring at all. Your way of teaching is very good and clearly understandable. Thank you for making effort and providing  a wonderful opportunity to students like us to learn about Data analytics</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Anusha. H</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">KCT, Coimbatore</span>
-                                </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-02.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">Sir your way of teaching is very well and good sir. It is easy to understand. It is very interactive to listen in this session. You are kind to all of us. I learn from you more sir. You know all kind of sectors so you are a most memorable person for me in our life.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Gayathri. K</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">KRISHNAMMAL, Coimbatore</span>
-                                </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="col-12 col-md-6 md-margin-four-bottom sm-margin-30px-bottom text-center sm-margin-twelve-bottom wow fadeInRight last-paragraph-no-margin swiper-slide">
-                                    <img src="images/testimonials/avtar-03.jpg" class="rounded-circle width-30 sm-width-100px sm-margin-15px-bottom margin-30px-bottom" alt=""/>
-                                    <p class="width-90 sm-width-100 mx-auto">The way you started from basics & trained us was way too good. You gave a new perspective of excel to us. Learned many new things which will be very useful for us in near future. Thank you, sir. We look forward for more classes.</p>
-                                    <i class="fas fa-quote-left icon-small text-deep-pink d-block margin-30px-top sm-margin-15px-top margin-15px-bottom"></i>
-                                    <span class="text-extra-gray font-weight-600 text-small text-uppercase d-block line-height-10 alt-font">Sonali. K</span>
-                                    <span class="text-light-gray2 text-extra-small text-uppercase text-black">SRI RAMACHANDRA MEDICAL COLLEGE, Chennai</span>
-                                </div>
-                            <!-- end testimonial item -->
+                           
+                           
                         </div>                        
                         <div class="swiper-pagination swiper-pagination-three-slides h-auto"></div>
                     </div>

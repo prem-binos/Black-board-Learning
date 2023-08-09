@@ -214,7 +214,11 @@
        margin-top: -123px;
        padding-top: 135px;
     }
-    
+    .swipper-wrapper:hover
+    {
+       transform: none;
+       transition: none;
+    }
     /*-----------------
       mobile-view
     -------------------*/

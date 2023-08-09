@@ -149,23 +149,23 @@
                 <div class="swiper-slider-clients swiper-container black-move wow fadeIn " style="background-color:#fff;">
                     <div class="swiper-wrapper">
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/amazon-logo-2.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/amazon-logo-2.png" alt="" style="width:110px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/kovia.co 3.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/kovia.co 3.png" alt="" style="width:90px"></a></div>
                         <!-- end slide -->
 
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/brillo logo.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/brillo logo.png" alt="" style="width:90px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
                         <div class="swiper-slide text-center"><a href=""><img src="images/col/freshworks logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/Ignitho_2_logo_200x200.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/ignitho logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/NTT_Data-Logo.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/NTT_Data-Logo.png" alt="" style="width:110px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
                         <div class="swiper-slide text-center"><a href=""><img src="images/col/zoho logo.png" alt="" style="width:100px"></a></div>
@@ -174,9 +174,9 @@
                         <div class="swiper-slide text-center"><a href=""><img src="images/col/Elcot logo.png" alt="" style="width:100px"></a></div>
                         <!-- end slide -->
                         <!-- start slide -->
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/salcomp_logo_2.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/salcomp_logo_2.png" alt="" style="width:110px"></a></div>
 
-                        <div class="swiper-slide text-center"><a href=""><img src="images/col/Hyundai LOGO.png" alt="" style="width:100px"></a></div>
+                        <div class="swiper-slide text-center"><a href=""><img src="images/col/hyundai logo.gif" alt="" style="width:100px"></a></div>
 
                         <!-- end slide -->
                         <!-- start slide -->

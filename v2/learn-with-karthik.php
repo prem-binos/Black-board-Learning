@@ -104,7 +104,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                   <!-- <div class="col-sm-4">
                         <div class="img-overlay">
                             <div class="embed-responsive embed-responsive-16by9">
                                 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BWuCQmnf_Pc?modestbranding=1"frameborder="0" allowfullscreen>
@@ -127,7 +127,7 @@
                                 </iframe>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-12 text-center">
                         <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom text-uppercase d-table d-lg-inline-block md-margin-lr-auto" href="https://www.youtube.com/watch?v=BWuCQmnf_Pc&list=PLGtL7up1vLcyDqj2ShH4zpy-Sh0dwWtOG"target="_blank">View Playlist</a>
                     </div>
@@ -170,7 +170,7 @@
             </div>
         </section>
 
-        <section class="bg-extra-light-gray">
+        <!--<section class="bg-extra-light-gray">
             <div class="container-fluid">
                 <h5 class="text-center text-black alt-font font-weight-600 letter-spacing-minus-1">Our Ads and Events</h5>
                 <div class="row">
@@ -205,24 +205,24 @@
             </div>
         </section>
 
-    </section>
+    </section> -->
 
     <!-- start page title section -->
-    <section class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image:url('images/parallax-bg39.jpg');">
+  <!--  <section class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image:url('images/parallax-bg39.jpg');">
         <div class="opacity-medium"></div>
         <div class="container-fluid">
             <div class="opacity-medium bg-extra-dark-gray"style="opacity:0.75; background: #1c1c1c;"></div>
-                <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large">
+                <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large"> -->
                     <!-- start page title -->
-                    <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom"style="color:#ffffff">Explanation Videos</h1>
+             <!--       <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom"style="color:#ffffff">Explanation Videos</h1> -->
                     <!-- end page title -->
-                </div>
+             <!--   </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- start services section -->
-    <section class="wow fadeIn bg-extra-light-gray">
+   <!-- <section class="wow fadeIn bg-extra-light-gray">
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8 margin-eight-bottom text-center last-paragraph-no-margin">
@@ -230,13 +230,13 @@
                     <p class="width-80 d-inline-block sm-width-100"></p>
                 </div>
             </div>
-        </div>
-    </section>
+        </div> 
+    </section> -->
     <!-- end services section -->
 
 
     <!-- end page title section -->
-    <section class="bg-extra-light-gray ">
+  <!--  <section class="bg-extra-light-gray ">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-sm-6">
@@ -277,25 +277,25 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
      <!-- start page title section -->
-     <section class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image:url('images/parallax-bg39.jpg');">
+    <!-- <section class="wow fadeIn parallax" data-stellar-background-ratio="0.5" style="background-image:url('images/parallax-bg39.jpg');">
         <div class="opacity-medium"></div>
         <div class="container-fluid">
             <div class="opacity-medium bg-extra-dark-gray"style="opacity:0.75; background: #1c1c1c;"></div>
-                <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large">
+                <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large"> -->
                     <!-- start page title -->
-                    <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom"style="color:#ffffff">Data Monks</h1>
+                   <!-- <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom"style="color:#ffffff">Data Monks</h1> -->
                     <!-- end page title -->
-                </div>
+             <!--   </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- end page title section -->
 
     <!-- start services section -->
-    <section class="wow fadeIn bg-extra-light-gray">
+   <!-- <section class="wow fadeIn bg-extra-light-gray">
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8 margin-eight-bottom text-center last-paragraph-no-margin">
@@ -304,8 +304,8 @@
                 </div>
             </div>
         </div>
-    </section>
-    <!-- end services section -->
+    </section> -->
+    <!-- end services section 
 
     <section class="bg-extra-light-gray">
             <div class="container-fluid">
@@ -332,7 +332,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <style type="text/css">
     ::placeholder {

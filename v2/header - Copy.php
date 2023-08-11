@@ -33,26 +33,26 @@
                      <li class="dropdown simple-dropdown"><a class="fonarto" style="font-size: 18px;" href="#" title="Courses">Courses</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                             <!-- start sub menu -->
                             <ul class="dropdown-menu" role="menu" style="top: 58px !important">
-                                <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="#">Basic<i class="fas fa-angle-right"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="fonarto"  href="dataanalyticsbootcamp.php" style="font-size: 18px;">Data Analytics Bootcamp</a></li>
+                                <li class="dropdown"><a    style="font-size: 18px;"  href="unleashcourse.php">Unleash Data Science</a>
+                            <!--         <ul class="dropdown-menu">
+                                       <li><a class="fonarto"  href="dataanalyticsbootcamp.php" style="font-size: 18px;">Data Analytics Bootcamp</a></li>
                                         <li><a class="fonarto" href="datasciencebootcamp.php" style="font-size: 18px;">Datascience Bootcamp</a></li>
                                         <li><a class="fonarto" href="digitalmarketingbootcamp.php" style="font-size: 18px;">Digital Marketing Bootcamp</a></li>
-                                    </ul>
+                                    </ul>  -->
                                 </li>
-                                <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="#">Intermediate<i class="fas fa-angle-right"></i></a>
-                                    <ul class="dropdown-menu">
+                                <li class="dropdown"><a  style="font-size: 18px;"  href="aspire-data-analysis.php">Aspire Data Analytics</a>
+                      <!--              <ul class="dropdown-menu">
                                         <li><a class="fonarto"  href="machinelearningbootcamp.php" style="font-size: 18px;">Machine Learning Bootcamp</a></li>
                                         <li><a class="fonarto" href="marketinganalytics.php" style="font-size: 18px;">Marketing Analytics</a></li>
                                         <li><a class="fonarto" href="hranalytics.php" style="font-size: 18px;">HR Analytics</a></li>
-                                    </ul>
+                                    </ul>  -->
                                 </li>
-                                <li class="dropdown"><a class="dropdown-toggle  fonarto"  style="font-size: 18px;" data-toggle="dropdown" href="#">Advanced<i class="fas fa-angle-right"></i></a>
+                            <!--    <li class="dropdown"><a class="dropdown-toggle  fonarto"  style="font-size: 18px;" data-toggle="dropdown" href="#">Advanced<i class="fas fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a class="fonarto"  href="deeplearningbootcamp.php" style="font-size: 18px;">Deep Learning Bootcamp</a></li>
                                         <li><a class="fonarto" href="financeanalytics.php" style="font-size: 18px;">Finance Analytics</a></li>
                                     </ul>
-                                </li>
+                                </li>  -->
                             </ul>
                             <!-- end sub menu -->
                         </li>
@@ -78,11 +78,11 @@
                             <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="events.php">Events & More</a>
                                 </li>
              
-                            </ul>
+                            
     
-                            <!--                     <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
-                                </li>
                                 <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
+                                </li>
+                                <!--<li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
                                 </li>
                                 <li class="dropdown"><a class="dropdown-toggle fonarto"   style="font-size: 18px;" data-toggle="dropdown" href="learn-with-karthik.php">Learn With Karthik</a>
                                 </li>
@@ -91,7 +91,7 @@
                                 
                                 <li class="dropdown"><a class="dropdown-toggle fonarto" style="font-size: 18px;" data-toggle="dropdown" href="student-ambassador.php">Student Ambassador</a>
                                 </li> -->
-                              
+                        </ul>      
                             <!-- end sub menu -->
                         </li>
                         

@@ -84,7 +84,7 @@
                         <h5 class="alt-font text-black font-weight-600 fonarto text-center">Masterclass</h5>
                         <!-- start filter navigation -->
                         <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 portfolio-filter-tab-1 font-weight-600 alt-font text-uppercase text-center margin-0px-bottom text-small md-margin-40px-bottom sm-margin-20px-bottom">
-                            <li class="nav active"><a href="javascript:void(0);" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
+                            <li class="nav active"><a href="" data-filter="*" class="light-gray-text-link text-very-small">All</a></li>
                       <!--    <li class="nav"><a href="javascript:void(0);" data-filter=".current" class="light-gray-text-link text-very-small">Current Events</a></li> -->
                             <li class="nav"><a href="javascript:void(0);" data-filter=".upcoming" class="light-gray-text-link text-very-small">Upcoming Events</a></li>
                             <li class="nav"><a href="javascript:void(0);" data-filter=".past" class="light-gray-text-link text-very-small">Past Events</a></li>

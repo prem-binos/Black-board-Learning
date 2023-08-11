@@ -23,7 +23,7 @@
                 </div>
                 <!-- start additional links -->
                 <div class="col-lg-4 col-md-6 widget border-right border-color-medium-dark-gray padding-45px-left md-padding-50px-left md-no-border-right md-margin-50px-bottom text-md-left text-md-left">
-                   <div class="widget-title alt-font text-large text-white-2 text-uppercase margin-10px-bottom font-weight-700">Contact Info</div>
+                   <div class="widget-title alt-font text-large text-yellow-2 text-uppercase margin-10px-bottom font-weight-700" style="color:#ffc000">Contact Info</div>
                     <div class="text-large  text-yellow ">Phone: <br> <a class=" text-white ">8248984562</a></div> <br>
                     
                     <div class="text-large  text-yellow ">Email: <br> <a href="mailto:sales@domain.com" class=" text-white ">info@blackboardlearning.in</a></div>
@@ -37,7 +37,7 @@
                 <!-- start contact information -->
                 <div class="col-lg-4 col-md-6 widget border-right border-color-medium-dark-gray padding-45px-left md-padding-50px-left md-no-border-right md-margin-50px-bottom text-md-left text-md-left">
                           
-                    <div class="widget-title alt-font text-large text-white-2 text-uppercase margin-10px-bottom font-weight-700">Popular Courses</div><br>
+                    <div class="widget-title alt-font text-large text-yellow-2 text-uppercase margin-10px-bottom font-weight-700" style="color:#ffc000">Popular Courses</div><br>
                     <ul class="list-unstyled">
 
                         <li><a class="text-medium  text-white " href="https://blackboardlearning.in/v2/unleashcourse.php">DATA SCIENCE</a></li><br>
@@ -67,6 +67,7 @@
      {
          display: none !important;
      }
+    
     </style>
     <script>
   window.addEventListener('load', function() {

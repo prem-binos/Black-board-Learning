@@ -232,11 +232,15 @@
                             <div class="pagination text-small text-uppercase text-extra-dark-gray">
                                 <ul class="mx-auto">
 
-                                    <li><a href="blog.php"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prev</a></li>
+                                    <li><a href="author.php"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prev</a></li>
 
                                     <li><a href="blog.php">1</a></li>
                                     <li class="active"><a href="#">2</a></li>
                                     <li><a href="b-page-3.php">3</a></li>
+                                    <li><a href="b-page-4.php">4</a></li>
+                                    <li><a href="b-page-5.php">5</a></li>
+                                    <li><a href="b-page-6.php">6</a></li>
+                                    <li><a href="b-page-7.php">7</a></li>
 
                                     <li><a href="b-page-3.php">Next <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
 

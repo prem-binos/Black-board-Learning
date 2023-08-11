@@ -237,8 +237,13 @@
                                     <li><a href="blog.php#">1</a></li>
                                     <li><a href="b-page-2.php">2</a></li>
                                     <li class="active"><a href="#">3</a></li>
+                                    <li><a href="b-page-4.php">4</a></li>
+                                    <li><a href="b-page-5.php">5</a></li>
+                                    <li><a href="b-page-6.php">6</a></li>
+                                    <li><a href="b-page-7.php">7</a></li>
 
-                                    <!-- <li><a href="b-page-2.php">Next <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li> -->
+
+                                     <li><a href="b-page-4.php">Next <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li> 
 
                                 </ul>
                             </div>

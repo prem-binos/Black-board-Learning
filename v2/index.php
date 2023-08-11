@@ -62,14 +62,12 @@
         <?php include("banner.php"); ?>
 
         <section class="bg-extra-light-gray">
-            <div class="container">
+            <div class="container" >
                 <h5 class="alt-font text-black font-weight-600 fonarto text-center">Classroom and Online Courses</h5>
                 <div class="row">
                     
                     <div class="col-sm-6">
-                        <div class="img-overlay ">
-                            <a href="unleash.php"> <img src="images/unleash/unleash_data_science_course.jpg" class="img-responsive"></a>
-                            <div class="overlay">
+                        
                                 <!--<div class="text">Hello World</div>-->
                                 <figcaption class="text-center align-middle">
                                     <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">UNLEASH DATA SCIENCE</span>
@@ -79,28 +77,24 @@
                                     <h5 class="text-black text-uppercase text-small mb-5 line-height-5">120 Hours of Classes | Weekdays or Weekends</h5>
                                     <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="unleashcourse.php">Know More</a>
                                 </figcaption>
-                            </div>
-                        </div>
                     </div>
 
-                 <div class="col-sm-6">
-                        <div class="img-overlay ">
-                            <a href="unleash-data-analysis.php"> <img src="images/aspire/aspire_data_analytics_course.jpg" class="img-responsive"></a>
-                            <div class="overlay">
-                                <!--<div class="text">Hello World</div>-->
+                    <div class="col-sm-6">
+                        
+                        <!--<div class="text">Hello World</div>-->
                                 <figcaption class="text-center">
-                                    <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">ASPIRE DATA ANALYTICS</span>
-                                    <div class="bg-black mx-auto  margin-25px-bottom"></div>
-                                    <p class="text-black text-sentence text-medium mb-0 ">A Job Assured Data Analysis Program</br>Online & Classroom</p>
-                                    <div class="bg-black mx-auto separator-horrizontal-medium-light3 margin-25px-bottom"></div>
-                                    <h5 class="text-black text-uppercase text-small mb-5 line-height-5">60 Hours of Classes | Weekdays or Weekends</h5>
-                                    <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="aspire-data-analysis.php">Know More</a>
+                                   <span class="font-weight-600 letter-spacing-1 alt-font text-extra-large text-black text-uppercase margin-5px-bottom d-block">ASPIRE DATA ANALYTICS</span>
+                                   <div class="bg-black mx-auto  margin-25px-bottom"></div>
+                                   <p class="text-black text-sentence text-medium mb-0 ">A Job Assured Data Analysis Program</br>Online & Classroom</p>
+                                   <div class="bg-black mx-auto separator-horrizontal-medium-light3 margin-25px-bottom"></div>
+                                   <h5 class="text-black text-uppercase text-small mb-5 line-height-5">60 Hours of Classes | Weekdays or Weekends</h5>
+                                   <a class="btn btn-small btn-dark-gray lg-margin-15px-bottom d-table d-lg-inline-block md-margin-lr-auto" href="aspire-data-analysis.php">Know More</a>
                                 </figcaption>
-                            </div>
-                        </div>
                     </div>
+                  
                 </div>
-            </section>
+            </div>
+        </section>
 
     <section class="parallax wow fadeIn" data-stellar-background-ratio="0.3" style="background-image: url(&quot;images/best-data-analytics-courses.jpg&quot;); visibility: visible; animation-name: fadeIn;">
         <div class="opacity-extra-medium"></div>
@@ -368,99 +362,28 @@
                                     </div>
                                 </figure>
                             </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/data analytics certification courses online.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/learn python for data analysis.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/data scientists course.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
+                           
                             
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/fundamentals of data analysis.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/data analyst udemy.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/iot and data science.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/data science professional certificate.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/mit data science course.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/m tech in data analytics.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/big data analytics training.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/advanced data science.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
-                            <div class="swiper-slide padding-15px-lr team-block text-left team-style-1 md-margin-40px-bottom wow fadeInUp" data-wow-delay="0.6s" style="width: 292.5px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-                                <figure>
-                                    <div class="team-image sm-width-100">
-                                        <img src="images/gallery/excel data analysis course.jpg" alt="" data-no-retina="">
-                                    </div>
-                                </figure>
-                            </div>
                         </div>   
-                        <div class="swiper-pagination swiper-pagination-four-slides"></div>
-                    </div>
+                        
+                    
+       <a href="gallery.html">
+       
+        <div class="col-12 text-center">
+                                    <input type="button" class="btn btn-deep-pink btn-medium margin-15px-top" value="View More ">
+                                </div>
+       </a>
+       </div>
                 </div>
             </div>
 
         </div>
+
     </section>
+
+    
+
+    
 
 
 

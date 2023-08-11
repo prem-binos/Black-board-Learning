@@ -242,9 +242,9 @@ Linear regression involves finding the optimal line that minimizes the distance 
                             <p class="text-extra-dark-gray text-medium" style="font-size: 18px; line-height: 2em;"><strong>Data Preparation:</strong> Before applying linear regression, it is essential to clean and preprocess the data. This step involves handling missing values, normalizing features, and splitting the data into training and testing sets.<br>
 <strong>Model Training:</strong> During the training phase, the model adjusts its coefficients iteratively to minimize the difference between the predicted values and the actual values. This process is typically accomplished using optimization algorithms such as Ordinary Least Squares (OLS) or Gradient Descent.
 <br>
-<strong>Model Evaluation:</strong> Once the model is trained, we evaluate its performance using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE). These metrics quantify the average squared difference between the predicted and actual values.<br>
+<strong>Model Evaluation:</strong> Once the model is trained, we evaluate its performance using metrics like Mean Squared Error (MSE) or Root Mean Squared Error (RMSE). These metrics quantify the average squared diffe
+</p>rence between the predicted and actual values.<br>
 <strong>Predictions: </strong>After evaluating the model's performance, we can make predictions on new, unseen data. By plugging in the values for the features of a house, the model will provide an estimated price.
-</p>
 
                             <p class="text-extra-dark-gray text-medium" style="font-size: 18px; line-height: 2em;"><strong>Advantages, Disadvantages, and Shortcomings</strong>
 <strong>Linear regression offers several advantages:</strong><br>

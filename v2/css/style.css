@@ -3819,7 +3819,7 @@ aside .latest-post li figure {width: 75px;}
 .rev-slider .tp-bullet.selected, .tp-bullet:hover { opacity: 1;}
 
 /* home - portfolio metro */
-.text-bold-underline:before {background-color: #ffc000; height: 3px; width: 100%; position: absolute; right: 0; bottom:5px; content: "";}
+.text-bold-underline:before {background-color:#ffc000; height: 3px; width: 100%; position: absolute; right: 0; bottom:5px; content: "";}
 
 /* home - portfolio  parallax */
 .parallax-title {padding: 16px 35px; display: inline-block}
@@ -3874,8 +3874,8 @@ aside .latest-post li figure {width: 75px;}
 .all-demo i {font-size: 15px; vertical-align: middle; position: relative; top: -1px; color: #6f6f6f}
 .buy-theme:hover, .all-demo:hover {transition-timing-function: ease-in-out; -moz-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; transition-duration: .2s; -moz-transition-duration: .2s; -webkit-transition-duration: .2s; -o-transition-duration: .2s; right: 0px; background: #ffc000}
 .buy-theme span, .all-demo span {padding:0 9px; position: relative; top:0; opacity: 0}
-.buy-theme:hover span, .all-demo:hover span {opacity: 1; color: #fff}
-.buy-theme:hover i, .all-demo:hover i {color: #fff}
+.buy-theme:hover span, .all-demo:hover span {opacity: 1; color: #000}
+.buy-theme:hover i, .all-demo:hover i {color: #000}
 .buy-theme a, .all-demo a { color: #232323; font-size: 10px; text-transform: uppercase; padding:10px 10px; display: block; text-decoration: none; font-weight: 500 }
 .all-demo {transition-timing-function: ease-in-out; -moz-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; transition-duration: .2s; -moz-transition-duration: .2s; -webkit-transition-duration: .2s; -o-transition-duration: .2s; position:fixed; bottom:184px; right: -69px; background: #fff; z-index: 1000; -moz-box-shadow:0 0 10px rgba(0,0,0,0.2);-webkit-box-shadow:0 0 10px rgba(0,0,0,0.2);box-shadow:0 0 10px rgba(0,0,0,0.2); z-index: 9999}
 .sm-margin-30px-bottom{margin-bottom:30px}

@@ -21,7 +21,7 @@
 <head>
         <!-- title -->
         <meta name="facebook-domain-verification" content="k3n0xsflcsmc3x2skt9daeur6s9tuq" />
-        <title>Author: Karthik Veer | Black Board Learning</title>
+        <title>Blog | Black Board Learning</title>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
@@ -79,8 +79,7 @@
                 <div class="row align-items-center">
                     <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large">
                         <!-- start page title -->
-                        <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">
-                            Author: Karthik Veer</h1>
+                        <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Blog: Page 6</h1>
                         <!-- <span class="text-white-2 opacity6 alt-font">Lorem Ipsum is simply dummy text printing</span> -->
                         <!-- end page title --> 
                     </div>
@@ -92,7 +91,7 @@
         <section>
             <div class="container">
                 <div class="row">
-                <main class="col-12 col-lg-9 right-sidebar md-margin-60px-bottom sm-margin-40px-bottom md-padding-15px-lr">
+                    <main class="col-12 col-lg-9 right-sidebar md-margin-60px-bottom sm-margin-40px-bottom md-padding-15px-lr">
                         <!-- start post item --> 
                         <div class="blog-post-content d-flex align-items-center flex-wrap margin-60px-bottom padding-60px-bottom border-bottom border-color-extra-light-gray md-margin-30px-bottom md-padding-30px-bottom text-center text-md-left md-no-border">
                             <div class="col-12 col-lg-5 blog-image p-0 md-margin-30px-bottom sm-margin-20px-bottom margin-45px-right md-no-margin-right">
@@ -100,8 +99,8 @@
                             </div>
                             <div class="col-12 col-lg-6 blog-text p-0">
                                 <div class="content margin-20px-bottom md-no-padding-left ">
-                                    <a href="unlocking-the-power-of-predictive-analytics.php" class="text-extra-dark-gray margin-5px-bottom alt-font text-extra-large font-weight-600 d-inline-block">Unlocking the Power of Predictive Analytics</a>
-                                    <div class="text-medium-gray text-extra-small margin-15px-bottom text-uppercase alt-font"><span>By <a href="author.php" class="text-medium-gray">Karthik Veer</a></span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span>12 Feb 2023</span>&nbsp;&nbsp;&nbsp;</div>
+                                    <a href="unlocking-the-power-of-predictive-analytics.php" class="text-extra-dark-gray margin-5px-bottom alt-font text-extra-large font-weight-600 d-inline-block">Linear Regression: Predicting Housing Prices</a>
+                                    <div class="text-medium-gray text-extra-small margin-15px-bottom text-uppercase alt-font"><span>By <a href="author.php" class="text-medium-gray">Yukesh</a></span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span>12 Feb 2023</span>&nbsp;&nbsp;&nbsp;</div>
                                     <p class="m-0 width-95">This blog takes you on a journey of exploring the world of Linear Regression. Through the use of a simple yet powerful example of hours studied and scores data, we dive deep into the workings of this popular machine learning algorithm... </p>
                                 </div>
                                 <a class="btn btn-very-small btn-dark-gray text-uppercase" href="unlocking-the-power-of-predictive-analytics.php">Continue Reading</a>
@@ -111,15 +110,15 @@
                         <!-- start post item --> 
                         <div class="blog-post-content d-flex align-items-center flex-wrap margin-60px-bottom padding-60px-bottom border-bottom border-color-extra-light-gray md-margin-30px-bottom md-padding-30px-bottom text-center text-md-left md-no-border">
                             <div class="col-12 col-lg-5 blog-image p-0 md-margin-30px-bottom sm-margin-20px-bottom margin-45px-right md-no-margin-right">
-                                <a href="unlocking-the-power-of-predictive-analytics.php"><img src="images/DATA-VISUALIZATION-BG.jpg" alt=""></a>
+                                <a href="anova-blog-content.php"><img src="images/DATA-VISUALIZATION-BG.jpg" alt=""></a>
                             </div>
                             <div class="col-12 col-lg-6 blog-text p-0">
                                 <div class="content margin-20px-bottom md-no-padding-left ">
-                                    <a href="unlocking-the-power-of-predictive-analytics.php" class="text-extra-dark-gray margin-5px-bottom alt-font text-extra-large font-weight-600 d-inline-block">Unlocking the Power of Predictive Analytics</a>
+                                    <a href="anova-blog-content.php" class="text-extra-dark-gray margin-5px-bottom alt-font text-extra-large font-weight-600 d-inline-block">Understaning Anova</a>
                                     <div class="text-medium-gray text-extra-small margin-15px-bottom text-uppercase alt-font"><span>By <a href="author.php" class="text-medium-gray">Karthik Veer</a></span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<span>12 Feb 2023</span>&nbsp;&nbsp;&nbsp;</div>
                                     <p class="m-0 width-95">This blog takes you on a journey of exploring the world of Linear Regression. Through the use of a simple yet powerful example of hours studied and scores data, we dive deep into the workings of this popular machine learning algorithm... </p>
                                 </div>
-                                <a class="btn btn-very-small btn-dark-gray text-uppercase" href="unlocking-the-power-of-predictive-analytics.php">Continue Reading</a>
+                                <a class="btn btn-very-small btn-dark-gray text-uppercase" href="anova-blog-content.php">Continue Reading</a>
                             </div>
                         </div>
                         <!-- end post item -->  
@@ -233,17 +232,18 @@
                             <div class="pagination text-small text-uppercase text-extra-dark-gray">
                                 <ul class="mx-auto">
 
-                                    <!-- <li><a href="b-page-2.php"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prev</a></li> -->
+                                    <li><a href="b-page-5.php"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prev</a></li>
 
-                                    <li class="active"><a href="#">1</a></li>
+                                    <li><a href="blog.php">1</a></li>
                                     <li><a href="b-page-2.php">2</a></li>
                                     <li><a href="b-page-3.php">3</a></li>
                                     <li><a href="b-page-4.php">4</a></li>
                                     <li><a href="b-page-5.php">5</a></li>
-                                    <li><a href="b-page-6.php">6</a></li>
+                                    <li class="active"><a href="#">6</a></li>
                                     <li><a href="b-page-7.php">7</a></li>
+                                    
 
-                                    <li><a href="b-page-2.php">Next <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
+                                    <li><a href="b-page-7.php">Next <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
 
                                 </ul>
                             </div>
@@ -259,7 +259,7 @@
         <?php include("footer.php");?>
         <!-- end footer -->
         <!-- start scroll to top -->
-        <a class="scroll-top-arrow" href="javascript:void(0);"><i class="fas fa-arrow-up"></i></a>
+        <a class="scroll-top-arrow" href="javascript:void(0);"><i class="ti-arrow-up"></i></a>
         <!-- end scroll to top  -->
         <!-- javascript libraries -->
         <script type="text/javascript" src="js/jquery.js"></script>
